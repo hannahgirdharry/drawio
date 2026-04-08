@@ -81,6 +81,12 @@
         <mxCell id="qJKGOfC2fZBN09gjxLqh-8" edge="1" parent="xCzPFkee5So7LX3HIq5e-8" source="qJKGOfC2fZBN09gjxLqh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="qJKGOfC2fZBN09gjxLqh-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qJKGOfC2fZBN09gjxLqh-12" parent="xCzPFkee5So7LX3HIq5e-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes- In Stock" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qJKGOfC2fZBN09gjxLqh-11" parent="xCzPFkee5So7LX3HIq5e-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No- Out of Stock" vertex="1">
+          <mxGeometry height="30" width="110" x="280" y="105" as="geometry" />
+        </mxCell>
         <mxCell id="xCzPFkee5So7LX3HIq5e-9" parent="xCzPFkee5So7LX3HIq5e-6" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" value="Billing/Accounts Receivable" vertex="1">
           <mxGeometry height="210" width="1030" y="500" as="geometry" />
         </mxCell>
